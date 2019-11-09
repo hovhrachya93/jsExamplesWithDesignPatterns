@@ -1,0 +1,16 @@
+{
+    "js" :[
+        {"name": "react", "price":40000},
+        {"name": "angular", "price": 45000},
+        {"name": "node", "price": 54000}
+    ],
+    "java":[
+        {"name": "android", "price":5},
+        {"name": "spring", "price": 15},
+    ],
+    "python":[
+        {"name": "django", "price":45000},
+        {"name": "cherryPy", "price": 45000},
+        {"name": "machine learning", "price": 60000}
+    ]
+}
